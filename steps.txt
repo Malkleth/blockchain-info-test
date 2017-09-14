@@ -1,0 +1,3 @@
+1) create git repo, clone to my local xampp directory
+2) copy and tweak index.php from https://github.com/Malkleth/kivaapitest to build a basic table of the blockchain data
+3) load up some javascript and css formatting tools I used in UltimateDonations.org's admin section.
