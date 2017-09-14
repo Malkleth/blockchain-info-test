@@ -1,3 +1,13 @@
 1) create git repo, clone to my local xampp directory
 2) copy and tweak index.php from https://github.com/Malkleth/kivaapitest to build a basic table of the blockchain data
 3) load up some javascript and css formatting tools I used in UltimateDonations.org's admin section.
+I didn't create this sortable javascript table, but it works really well, I have a page that uses it with 18k entries and it's really fast. We got it from: https://kryogenix.org/code/browser/sorttable/
+Downside: when using it, row limitation is best applied at the database limit level, but passing in that sort of stuff with ajax is simple enough.
+
+5) commit to git repo
+
+6) add heroku procfile, recommit.
+
+7) deploy to heroku
+
+
