@@ -10,4 +10,6 @@ Downside: when using it, row limitation is best applied at the database limit le
 
 7) deploy to heroku
 
+8) cleanup pass on index.php
+
 
